@@ -1,0 +1,21 @@
+[submodule "cloud-starter-stateful"]
+	path = cloud-starter-stateful
+	url = ../cloud-starter-stateful.git
+[submodule "cloud-starter-context"]
+	path = cloud-starter-context
+	url = ../cloud-starter-context.git
+[submodule "cloud-starter-exception"]
+	path = cloud-starter-exception
+	url = ../cloud-starter-exception.git
+[submodule "cloud-starter-loggable"]
+	path = cloud-starter-loggable
+	url = ../cloud-starter-loggable.git
+[submodule "cloud-starter-swagger"]
+	path = cloud-starter-swagger
+	url = ../cloud-starter-swagger.git
+[submodule "cloud-starter-data"]
+	path = cloud-starter-data
+	url = ../cloud-starter-data.git
+[submodule "cloud-starter-i18n"]
+	path = cloud-starter-i18n
+	url = ../cloud-starter-i18n.git
