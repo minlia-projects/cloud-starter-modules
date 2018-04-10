@@ -19,3 +19,12 @@
 [submodule "cloud-starter-i18n"]
 	path = cloud-starter-i18n
 	url = ../cloud-starter-i18n.git
+[submodule "cloud-starter-apiversion"]
+	path = cloud-starter-apiversion
+	url = ../cloud-starter-apiversion.git
+[submodule "cloud-starter-ratelimited"]
+	path = cloud-starter-ratelimited
+	url = ../cloud-starter-ratelimited.git
+[submodule "cloud-starter-redis-server"]
+	path = cloud-starter-redis-server
+	url = ../cloud-starter-redis-server.git
