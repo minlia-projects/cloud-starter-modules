@@ -21,6 +21,9 @@
     <module>cloud-starter-swagger</module>
     <module>cloud-starter-data</module>
     <module>cloud-starter-i18n</module>
+    <module>cloud-starter-apiversion</module>
+    <module>cloud-starter-ratelimited</module>
+    <module>cloud-starter-redis-server</module>
   </modules>
 
 </project>
