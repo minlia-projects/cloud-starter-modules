@@ -24,6 +24,7 @@
     <module>cloud-starter-apiversion</module>
     <module>cloud-starter-ratelimited</module>
     <module>cloud-starter-redis-server</module>
+    <module>cloud-starter-security</module>
   </modules>
 
 </project>
