@@ -28,3 +28,6 @@
 [submodule "cloud-starter-redis-server"]
 	path = cloud-starter-redis-server
 	url = ../cloud-starter-redis-server.git
+[submodule "cloud-starter-security"]
+	path = cloud-starter-security
+	url = ../cloud-starter-security.git
