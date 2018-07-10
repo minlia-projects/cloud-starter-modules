@@ -31,3 +31,6 @@
 [submodule "cloud-starter-security"]
 	path = cloud-starter-security
 	url = ../cloud-starter-security.git
+[submodule "cloud-starter-bible"]
+	path = cloud-starter-bible
+	url = ../cloud-starter-bible.git
