@@ -34,3 +34,6 @@
 [submodule "cloud-starter-bible"]
 	path = cloud-starter-bible
 	url = ../cloud-starter-bible.git
+[submodule "cloud-starter-pretend"]
+	path = cloud-starter-pretend
+	url = ../cloud-starter-pretend.git

@@ -16,15 +16,16 @@
   <modules>
     <module>cloud-starter-stateful</module>
     <module>cloud-starter-context</module>
+    <module>cloud-starter-i18n</module>
     <module>cloud-starter-exception</module>
     <module>cloud-starter-loggable</module>
     <module>cloud-starter-swagger</module>
     <module>cloud-starter-data</module>
-    <module>cloud-starter-i18n</module>
     <module>cloud-starter-apiversion</module>
     <module>cloud-starter-ratelimited</module>
     <module>cloud-starter-redis-server</module>
     <module>cloud-starter-security</module>
+    <module>cloud-starter-pretend</module>
     <module>cloud-starter-bible</module>
   </modules>
 
