@@ -25,6 +25,7 @@
     <module>cloud-starter-ratelimited</module>
     <module>cloud-starter-redis-server</module>
     <module>cloud-starter-security</module>
+    <module>cloud-starter-bible</module>
   </modules>
 
 </project>
